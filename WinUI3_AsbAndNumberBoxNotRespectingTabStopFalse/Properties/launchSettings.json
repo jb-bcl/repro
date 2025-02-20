@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3_AsbAndNumberBoxNotRespectingTabStopFalse (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3_AsbAndNumberBoxNotRespectingTabStopFalse (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
